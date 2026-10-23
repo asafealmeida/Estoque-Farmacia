@@ -1,0 +1,4 @@
+codigo;nome;descricao;principioAtivo;dataValidade;quantidade;preco;controlado;cnpj;razaoSocial;telefone;email;cidade;estado
+ABC1234;Dipirona;Analgesico;Dipirona;2026-11-01;3;12.50;false;11222333000181;Alfa;1;a@b.com;Goiania;GO
+XYZ9876;Rivotril;Ansiolitico;Clonazepam;2027-05-10;40;20;true;11222333000181;Alfa;1;a@b.com;Goiania;GO
+AZU2233;Azulin;Azulin;sobetudo;2026-10-25;2;52.90;true;11444777000161;Asafe;5655;A@.com;ap;GO
